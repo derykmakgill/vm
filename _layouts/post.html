@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<article>
+<header>
+<div class="blogparent"><a href="/archive" rel="tag">Articles</a>:</div>
+<h1>{{ page.title }}</h1>
+<small>{{ page.date | date_to_string }}</small>
+</header>
+
+
+<footer>
+© 2019 <a href="https://sivers.org/">Deryk Makgill</a>.
+(
+	« <a href="/ment" accesskey="p" rel="prev">previous</a>
+	||
+	<a href="/exex" accesskey="n" rel="next">next</a> »
+)
+
+
+<div class="related">
+  <h2>Other Posts</h2>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      <li>
+        <h3>
+          <a href="{{ post.url }}">
+            {{ post.title }}</a>
+            <small>{{ post.date | date_to_string }}</small>
+          
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+<br>
+</footer>
+</article>
