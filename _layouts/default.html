@@ -216,11 +216,38 @@ div.presentation_summary{
 }
 @media screen and (min-width: 440px){
 	section#masthead h1{
-		font-size:3em
+		font-size:3em;
 	}
 	div.presentation_summary img{
 		float:right
 	}
+	
+section#masthead p {
+	margin:0;
+	font-weight: 0;
+}
+section#masthead p a{
+	color:#800;
+}	
+	
+@media screen and (max-width: 440px){
+	section#masthead p{
+		font-size:2em;
+	}
+	div.presentation_summary img{
+		display:block
+	}
+}
+@media screen and (min-width: 440px){
+	section#masthead p {
+		font-size:3em
+	}
+	div.presentation_summary img{
+		float:right
+	}	
+	
+	
+	
 }
 article#home div#content h2 small{
 	margin-left:2em
@@ -247,13 +274,13 @@ margin-top: 10px;
 </head>
 <body id="oneblog" data-gr-c-s-loaded="true">
 <section id="masthead">
-        <h1 class="masthead-title">
+        <p class="masthead-title">
           <a href="/" title="Home" style="
     color: #800;
 ">Deryk Makgill</a>
 
 
-        </h1>
+        </p>
 </section>
 <div id="content">
 
