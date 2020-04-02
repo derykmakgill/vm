@@ -10,10 +10,10 @@ layout: default
   
  {% if post.image %}
       <div class="post-image">
-        <a href="{{ post.url | relative_url }}" style="
+        <a href="{{ page.url | relative_url }}" style="
     text-decoration: none;
 ">
-          <img src="{{ post.image | relative_url }}">
+          <img src="{{ page.image | relative_url }}">
         </a>
       </div>
       {% endif %}  
