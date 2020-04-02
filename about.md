@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Deryk Makgill
+title: About
 ---
 
 <p class="intro">Howdy. My name is Matthew Mullenweg. I was born and raised in Houston, Texas. I write code, prose, and music. I love <a href="https://ma.tt/gallery/">taking photos</a>.</p>
