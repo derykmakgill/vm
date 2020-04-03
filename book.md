@@ -1,6 +1,6 @@
 ---
 layout: book
-title: Sum Forty Tales from the Afterlives - by David Eagleman
+title: "Sum: Forty Tales from the Afterlives - by David Eagleman"
 isbn: 0307377342
 time: 2017-09-27
 rating: 3/10
