@@ -5,7 +5,7 @@ isbn: 0307377342
 time: 2017-09-27
 rating: 3/10
 buy: https://www.amazon.com/dp/0307377342?tag=sivers-20
-image: https://sivers.org/images/Sum.gif
+image: https://i0.wp.com/tim.blog/wp-content/uploads/2015/10/tim_ferriss_books211.jpeg?fit=615%2C346&ssl=1&resize=1200,675
 alt: "Sum: Forty Tales from the Afterlives"
 ---
 
