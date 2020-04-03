@@ -1,6 +1,35 @@
 <html lang="en" dir="ltr"><head>
 <meta charset="utf-8">
-<title>Deryk Makgill</title>
+<title>
+   {%if page.title %}
+       {{ page.title }}
+   {% else %}
+       {{ site.title }}
+   {% endif %}
+</title>
+	
+<meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
+	
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:image" content="{{ site.url }}/thumbs/{{ page.image }}" />
+<meta property="og:site_name" content="Deryk Makgill">
+<meta property="article:publisher" content="http://www.facebook.com/derykmakgill" />
+<meta property="article:author" content="https://www.facebook.com/derykmakgill" />
+<meta property="article:published_time" content="{{ page.date }}" />
+<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">	
+	
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta name="twitter:site" content="@derykmakgill" />
+<meta name="twitter:creator" content="@derykmakgill">
+<meta name="twitter:card" content="summary">	
+	
+<link rel="canonical" href="{{ page.url | prepend: site.url }}">	
+	
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 @import url('https://rsms.me/inter/inter-ui.css');	
