@@ -3,66 +3,123 @@ layout: page
 title: About
 ---
 
-<p class="intro">Howdy. My name is Matthew Mullenweg. I was born and raised in Houston, Texas. I write code, prose, and music. I love <a href="https://ma.tt/gallery/">taking photos</a>.</p>
+ <a name="top">
+  <p>Hi, my name is Venkatesh Rao (Venkat). I am a writer and independent management consultant. My writing can be found on <a href="https://ribbonfarm.com">Ribbonfarm</a>, <a href="https://breakingsmart.com">Breaking Smart</a>, and <a href="https://artofgig.substack.com">The Art of Gig</a>. I am the author of a book on decision-making <a href="http://tempobook.com"><i>Tempo</i></a> (2011), and am currently working on my second book.</p>
+
+  <p>My consulting practice is mainly focused on challenges at the interesection of technology, strategy, and organizational development, at midsized or large companies. Over the last decade, I have worked with clients in a wide variety of sectors including computing/software, retail, automotive, healthcare, chemicals, government, media, and investment. I usually work 1:1 with senior executives, but in rare cases, I work with teams or organizations as a whole.</p>
+
+  <p>Before I struck out on my own in 2011, I worked in the Xerox Innovation Group (now part of Xerox PARC) between 2006-11. Before that, I was a researcher at Cornell University. I hold a PhD in systems and control (U. Michigan, 2004). I'm currently based in Los Angeles, where I am on an academic-year fellowship at the <a href="https://www.berggruen.org/">Berggruen Institute</a> through May 2020. </p>
+<img srcset="headshotVGR200.JPG 200w,
+             headshotVGR400.JPG 400w,
+             headshotVGR800.JPG 800w"
+     sizes="(max-width: 320px) 200px,
+            (max-width: 480px) 400px,
+            800px"
+     src="headshotVGR800.JPG" alt="Venkatesh Rao">
 
 
+<a name="consulting"><h2>Consulting</h2>
 
-<h3><b>WordPress</b></h3>
+<p>The bulk of my practice comprises 1:1 work with senior executives as a conversational sparring partner, to stress test and improve the rigor and quality of their ongoing thinking about their evolving challenges. Karl Weick's short paper <a href="https://www.jstor.org/stable/2393789">What Theory is Not, Theorizing Is</a> is a good description of the natural process I try to build upon.</p>
 
-
-
-<p>I am a founding developer of <a href="http://wordpress.org/">WordPress</a>, the Open Source software used by over 31% of the web, including this site. The website says WordPress is “a state-of-the-art semantic personal publishing platform” but more importantly WordPress is a part of who I am. Like eating, breathing, music, I can’t not work on WordPress. We celebrated <a href="https://ma.tt/2018/05/wordpress-at-15/">15 years of WordPress in 2018</a>. (I was 19 when I started. I’m 34 now.) The project touches a lot of people, something I’ve recently begun to appreciate. I consider myself very lucky to be able to work on something I love so much.</p>
-
-
-
-<p>Every year I give a “State of the Word” speech. <a href="https://wordpress.tv/2017/12/04/matt-mullenweg-state-of-the-word-2017/">Here’s the 2017 edition</a>.</p>
+<blockquote id="quotebox">
+Products of the theorizing process seldom emerge as full-blown theories, which means that most of what passes for theory in organizational studies consists of approximations. Although these approximations vary in their generality, few of them take the form of strong theory, and most of them can be read as texts created "in lieu of" strong theories. These substitutes for theory may result from lazy theorizing in which people try to graft theory onto stark sets of data. But they may also represent interim struggles in which people intentionally inch towards stronger theories. <mark>The products of laziness and intense struggles may look the same and consist of references, data, lists, diagrams, and hypotheses.</mark> To label these five as "not theory" makes sense if the problem is laziness and incompetence. But ruling out those same five may slow inquiry if the problem is theoretical development still in its early stages.
+</blockquote>
 
 
+<p>The working arrangement is usually just ongoing email/slack interactions, with 1:1 video-conference sparring sessions of 1-3 hours every 4-6 weeks (more or less often depending on the pace of developments). Occasionally a client will rope in a colleague or direct report to help drill down into a particular issue. There is usually no output product as such, beyond the summary email notes I send after every call.</p>
 
-<h3><b>Professional</b></h3>
+<p>Occasionally, I take on projects such as building system models, or preparing and delivering private workshops on specific topics at the request of clients.</p>
 
+<p>My consulting models is best-suited for executives in medium-to-large organizations, and requires interactions over at least a year to yield results. Occasionally, I work with individuals, leaders at smaller companies and startups (typically past the product-market fit stage, with at least 25-30 employees and/or investment/revenue in the millions of dollars).</p>
 
+<p> Clients usually find me directly through something I've written, rather than through a referral. Check out the <a href="#writing">writing section</a>. The links below are to some of my more business-themed blog posts, but it is often a non-businsess post that triggers a great sparring relationship.</p>
 
-<p>I used to do consulting and go to school in Houston, then I <a href="https://ma.tt/2004/10/28/press-and-cnet/">moved to San Francisco</a> where I worked at <a href="http://www.cnet.com/aboutcnet/">CNET Networks</a>. I left in late 2005 to found a company called <a href="http://automattic.com/">Automattic</a>, which is now the force behind <a href="http://wordpress.com/">WordPress.com</a>, <a href="https://jetpack.com/">Jetpack</a>, <a href="https://woocommerce.com">WooCommerce</a>, <a href="https://simplenote.com/">Simplenote</a>, <a href="https://longreads.com/">Longreads</a>, <a href="https://magazine.atavist.com/">The Atavist</a>, and many other <a href="https://automattic.com/">products</a>. Our mission is to make the web a better place.</p>
+   <ul>
+      <li><a href="http://www.ribbonfarm.com/2014/04/24/product-driven-versus-customer-driven/">Product-Driven versus Customer-Driven</a> </li>
+      <li><a href="http://www.ribbonfarm.com/2010/09/21/the-seven-dimensions-of-positioning/">The Seven Dimensions of Positioning</a> </li>
+      <li><a href="http://www.ribbonfarm.com/2012/10/15/economies-of-scale-economies-of-scope/">Economies of Scale, Economies of Scope</a></li>
+      <li><a href="http://www.ribbonfarm.com/2016/07/28/fat-thinking-and-economies-of-variety/">Fat Thinking and Economies of Variety</a></li>
+      <li><a href="http://www.ribbonfarm.com/2011/06/08/a-brief-history-of-the-corporation-1600-to-2100/">A Brief History of the Corporation</a></li>
+    </ul>
 
+<a href="#top">Top</a>
 
+<a name="clients"><h2>Clients</h2></a>
 
-<p>Though Automattic is my main focus I also advise and invest in startups through my company <a href="http://audrey.co/">Audrey Capital</a>. You can peruse the portfolio of companies <a href="http://audrey.co/">on the Audrey site</a>.</p>
+This is an incomplete list of current/past clients whom I've worked with for at least 6 months (I am not at liberty to list some clients, and I don't update this page often).
 
+<ol>
+  <li>Jim Keller, SVP Silicon Engineering, Intel</li>
+  <li>John Bissell, CEO, Origin Materials</li>
+  <li>Bryan Johnson, CEO, Kernel/OS Fund</li>
+  <li>Dan Schmidt, VP Product, MDSave</li>
+  <li>Brian Clare, CEO, One45</li>
+  <li>Marc Andreessen, General Partner, a16z</li>
+</ol>
 
+<p>If you are interested in learning my approach to independent consulting, you may want to sign up for the <a href="https://artofgig.substack.com/">Art of Gig</a> weekly newsletter.</p>
 
-<p>See also: <a href="http://en.wikipedia.org/wiki/Matt_Mullenweg">Wikipedia</a> (needs updating), <a href="http://www.crunchbase.com/person/matt-mullenweg">CrunchBase</a>.</p>
+<a href="#top">Top</a>
 
-
-
-<h3><b>Distributed Work</b></h3>
-
-
-
-<p>Much like WordPress sought to change the way we publish on the web, Automattic has set out to change the way we work. We are an entirely distributed company — with more than 1,100 employees working from more than 62 countries, and no physical headquarters. We are a company that works on, and for, the web. <a href="https://distributed.blog/">I run a podcast and website about this at Distributed.blog</a>.</p>
-
-
-
-<h3><b>Causes</b></h3>
-
-
-
-<p>These are the charities or organizations that I support in a way that is significant to me. Some are working on basic survival issues, and some are addressing problems that we’re lucky to have in this modern technological age, but all are important to me: <a href="http://archive.org/">Archive.org</a>, <a href="http://www.alaskawild.org/">Alaska Wilderness League</a>, <a href="http://apache.org/">Apache Foundation</a>, <a href="http://thebaylights.org/">Bay Lights</a>, <a href="http://charitywater.org/">charity: water</a>, <a href="http://eff.org/">Electronic Frontier Foundation</a>, <a href="http://grist.org/">Grist</a> (board), <a href="http://www.innocenceproject.org/">Innocence Project</a>, <a href="http://longnow.org/">Long Now Foundation</a>, <a href="http://www.rothkochapel.org/">Rothko Chapel</a>, <a href="http://samasource.org">Samasource</a>, <a href="http://www.us-irelandalliance.org/">US-Ireland Alliance</a>.</p>
-
-
-
-<h3><b>Press, Podcasts, and Speaking</b></h3>
-
-
-
-<p>A few notable links:</p>
+<a name="workshops"><h2>Workshops and Speaking</h2></a>
 
 
-<ul><li><a href="https://om.co/2020/01/16/podcast-interviewing-matt-mullenweg/">Om Malik interviews for True Foundation series</a> (January 2020)</li><li><a href="https://rework.fm/open-source-and-power-with-matt-mullenweg/">Rework podcast: Open Source and Power</a> (October 2019)</li><li><a href="https://techcrunch.com/2019/09/19/automattic-ceo-matt-mullenweg-about-raising-300-million-and-the-open-web/">Techcrunch: How Automattic wants to build the operating system of the web</a> (September 2019)</li><li><a href="https://www.theverge.com/2019/8/14/20804894/tumblr-acquisition-matt-mullenweg-ceo-automattic-wordpress-verizon-changes-vergecast">The Verge: Automattic CEO on what’s next for Tumblr</a> (August 2019)</li><li><a href="https://www.recode.net/2018/8/2/17641412/matt-mullenweg-wordpress-media-privacy-advertising-data-reckoning-kara-swisher-decode-podcast">Podcast: Interview with Kara Swisher / Recode Decode</a> (August 2018)</li><li>With Tim Ferriss: <a href="https://tim.blog/2015/02/09/matt-mullenweg/">On Polyphasic Sleep, Tequila, and Building Billion-Dollar Companies</a> (2015), <a href="https://tim.blog/2016/10/01/matt-mullenweg-on-the-characteristics-and-practices-of-successful-entrepreneurs/">Characteristics and Practices of Successful Entrepreneurs</a> (2016), <a href="https://tim.blog/2016/12/16/the-random-show-threesome-tim-ferriss-kevin-rose-and-matt-mullenweg/">Random Show with Tim Ferriss and Kevin Rose</a>.</li></ul>
+   <p>I develop and deliver customized talks and interactive workshops on specific topics at the request of clients, either as part of ongoing consulting engagements, or as one-off things. Topics I have covered in recent years include software eating the world (now available as <a href="https://ribbonfarm.teachable.com/p/breaking-smart-season-1/">a self-paced recorded workshop</a>), OODA-loop thinking, and energy transitions.</p>
+
+   Selected public talks (video links if available):
+   <ul>
+      <li><a href="https://www.serpentinegalleries.org/exhibitions-events/work-marathon">Archetypes for the Anthropocene</a> (Serpentine Work Marathon, September 2018)</li>
+      <li><a href="https://www.youtube.com/watch?v=tSE8VdaZNuY">Off the Clock</a> (Thinking Digital Conference, Newcastle, May 2018)</li>
+      <li><a href="https://www.youtube.com/watch?v=ow43pFm9GLQ">Bloodcoin</a> (Refactor Camp, Austin, May 2018)
+    </ul>
+
+   Here are <a href="https://www.youtube.com/watch?v=guaANxY61us">a</a> <a href="http://www.slideshare.net/vgururao/usc-annenberg">few</a> <a href="https://www.youtube.com/watch?v=CwzEa-_9Nuc">of</a> my favorite older public talks.</p>
+
+   Selected podcasts and interviews
+
+   <ul>
+     <li> <a href="https://www.econtalk.org/venkatesh-rao-on-waldenponding/">Econtalk podcast</a> with Russ Roberts</li>
+      <a href="">Village Global podcast</a> with Erik Torenberg</li>
+      <li> <a href=""> Real Vision video interview</a> with Raoul Pal </li>
+      <li>  <a href="https://longform.org/posts/longform-podcast-174-venkatesh-rao">Longform podcast</a> with Aaron Lammer</li>
+      <li> <a href="https://www.farnamstreetblog.com/2016/02/venkatesh-rao-decision-making/">Farnam Street Knowledge Project</a> with Shane Parrish</li>
+    </ul>
+
+   <a href="#top">Top</a>
+
+<a name="writing"><h2>Writing</h2></a>
+
+   <p>I mainly write on <a href="http://ribbonfarm.com">Ribbonfarm</a>, a blog I started in 2007, and which now hosts a large number of writers exploring diverse themes. I also write the seasonal essay collections on technology at <a href="http://breakingsmart.com">Breaking Smart</a> and the associated weekly <a href="http://breakingsmart.com/en/season-1-newsletter-archive/">newsletter/podcast</a>.
+
+   <p>If you are interested in learning my approach to writing longform, you may want to check out a course I taught with Sarah Perry, The Art of Longform, available as <a href="https://ribbonfarm.teachable.com/p/the-art-of-longform">a self-paced recorded course</a> via Teachable.</p>
+
+   <p>Curated collections of my blog and newsletter writings can be found in seven ebooks: <a href="http://www.ribbonfarm.com/the-gervais-principle/">The Gervais Principle</a>, <a href="http://beslightlyevil.com">Be Slightly Evil</a>, <a href="https://www.ribbonfarm.com/2017/07/13/crash-early-crash-often/">Crash Early, Crash Often</a> and <a href="https://www.ribbonfarm.com/the-rust-age/">The Rust Age (4 volumes)</a>.</p>
+
+   <p>I have written one book, <a href="http://tempobook.com">Tempo</a> (2011), on narrative-driven decision-making. It is something like a pop-science version of my postdoctoral research at Cornell on command and control systems.</p>
+
+   <p>I've written a couple of pieces <a href="https://aeon.co/users/venkatesh-rao">for Aeon Magazine</a> and <a href="http://www.theatlantic.com/author/venkatesh-rao/">The Atlantic</a>, among other outlets, and my writing has occasionally been mentioned in places like The Economist, BoingBoing, and The New York Times.</p>
+
+   <p>I occasionally take on commissioned writing projects if there is a strong fit with things I want to write anyway.</p>
+
+   <a href="#top">Top</a>
+
+<a name="bio"><h2>Bio</h2></a>
+
+   <p>You can use the following generic bio for conference programs and such. Here is a <a href="hs2-hires.jpg">hi-res headshot</a>. Here is <a href="CV2019.pdf">my CV</a> (updated 2019).</p>
+
+   <blockquote><b>Venkatesh Rao</b> is a writer and independent management consultant. He is the founder of the <a href="http://ribbonfarm.com">Ribbonfarm</a> blog and the <a href="http://breakingsmart.com">Breaking Smart</a> technology analysis site, and the author of <a href="http://tempobook.com">Tempo</a>, a book on decision-making. He holds a PhD in Aerospace Engineering (2003) from the University of Michigan. Between 2004 and 2006, he was a postdoctoral researcher at Cornell University, working on command and control systems. From 2006 to 2011 he was a senior researcher at the Xerox Research Center, Webster (now part of PARC). He has been an independent management consultant and writer since 2011. He is currently based in Los Angeles, on a fellowship at the Berggruen Institute.</b></blockquote>
+
+   <a href="#top">Top</a>
+
+<a name="contact"><h2>Contact</h2></a>
 
 
+   <p>Twitter <a href="http://twitter.com/vgr">@vgr</a> or <a href="https://www.facebook.com/vgururao">Facebook</a> are best if you just want to chat casually or ask me quick questions. If you want to talk about a consulting project, or participation at an event, get in touch at <img src="email.jpeg"></p>
 
-<p>For more, here’s <a href="https://ma.tt/press">an archived collection</a> of articles about my work over the years, as well as podcast interviews and past speaking engagements. I’ve also spoken at <a href="https://wordpress.tv/speakers/matt-mullenweg/">hundreds of WordPress events and WordCamps</a>.</p>
+   <p>The phone is NOT a good way to reach me, but if you're in Downtown Los Angeles or visiting, I am usually available to meet in person.</p>
+
+<a href="#top">Top</a>
 
 
 
