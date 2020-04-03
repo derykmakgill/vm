@@ -11,20 +11,16 @@ permalink:        pretty
 # Setup
 title:            Deryk Makgill
 tagline:          'Data Science, Apache Pig, Hadoop, Blogging, Tweets, Astrophysics'
-url:              http://derykmakgill.com/josh
-shorturl:         derykmakgill.com/josh
+url:              http://derykmakgill.com/
+shorturl:         derykmakgill.com/
 
 author:
-  name:           'Joshua Lande'
-  url:            https://twitter.com/joshualande
-
+  name:           'Deryk Makgill'
+  url:            https://twitter.com/derykmakgill
 paginate:         18
 
-# Custom vars
-version:          1.0.0
-
 github:
-  repo:           github.com/joshualande/joshualande.github.io
+  repo:           github.com/
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
