@@ -19,7 +19,7 @@
 <meta property="article:publisher" content="http://www.facebook.com/derykmakgill" />
 <meta property="article:author" content="https://www.facebook.com/derykmakgill" />
 <meta property="article:published_time" content="{{ page.date }}" />
-<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">	
+<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}">	
 	
 
 <meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
@@ -31,7 +31,7 @@
 <meta name="twitter:image" content="{{ page.image }}">
 {% else %}
 <meta name="twitter:card"  content="summary">
-<meta name="twitter:image" content="{{ site.title_image }}">
+<meta name="twitter:image" content="{{ site.image }}">
 {% endif %}
 	
 <link rel="canonical" href="{{ page.url | prepend: site.url }}">	
