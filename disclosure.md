@@ -19,27 +19,17 @@ title: Disclosure
 
 
 
-<figure class="aligncenter"><img src="https://i0.wp.com/tim.blog/wp-content/uploads/2014/05/ftc_food_2503.jpg?w=600&amp;ssl=1" alt="FTC Disclosure: Writer got fed." class="wp-image-12425 jetpack-lazy-image jetpack-lazy-image--handled" data-recalc-dims="1" data-lazy-loaded="1"><noscript><img src="https://i0.wp.com/tim.blog/wp-content/uploads/2014/05/ftc_food_2503.jpg?w=600&#038;ssl=1" alt="FTC Disclosure: Writer got fed." class="wp-image-12425" data-recalc-dims="1"/></noscript></figure>
+<img src="https://i0.wp.com/tim.blog/wp-content/uploads/2014/05/ftc_food_2503.jpg?w=600&amp;ssl=1" alt="FTC Disclosure: Writer got fed." class="wp-image-12425 jetpack-lazy-image jetpack-lazy-image--handled" data-recalc-dims="1" data-lazy-loaded="1">
 
+<img src="https://i2.wp.com/tim.blog/wp-content/uploads/2014/05/ftc_gadgets_2503.jpg?w=600&amp;ssl=1" alt="FTC disclosure: Writer got some sweet gadgets." class="wp-image-12426 jetpack-lazy-image jetpack-lazy-image--handled" data-recalc-dims="1" data-lazy-loaded="1">
 
+<img src="https://i2.wp.com/tim.blog/wp-content/uploads/2014/05/ftc_gotbusy_2503.jpg?w=600&amp;ssl=1" alt="FTC Disclosure: Writer got busy with member of story." class="wp-image-12427 jetpack-lazy-image jetpack-lazy-image--handled" data-recalc-dims="1" data-lazy-loaded="1">
 
-<figure class="aligncenter"><img src="https://i2.wp.com/tim.blog/wp-content/uploads/2014/05/ftc_gadgets_2503.jpg?w=600&amp;ssl=1" alt="FTC disclosure: Writer got some sweet gadgets." class="wp-image-12426 jetpack-lazy-image jetpack-lazy-image--handled" data-recalc-dims="1" data-lazy-loaded="1"><noscript><img src="https://i2.wp.com/tim.blog/wp-content/uploads/2014/05/ftc_gadgets_2503.jpg?w=600&#038;ssl=1" alt="FTC disclosure: Writer got some sweet gadgets." class="wp-image-12426" data-recalc-dims="1"/></noscript></figure>
+<img src="https://i1.wp.com/tim.blog/wp-content/uploads/2014/05/ftc_money_2503.jpg?w=600&amp;ssl=1" alt="FTC Disclosure: Writer received mad scrilla (money)." class="wp-image-12428 jetpack-lazy-image jetpack-lazy-image--handled" data-recalc-dims="1" data-lazy-loaded="1">
 
+<img src="https://i1.wp.com/tim.blog/wp-content/uploads/2014/05/ftc_schwag_2503.jpg?w=600&amp;ssl=1" alt="FTC Disclosure: Writer got a helluva schwag bag." class="wp-image-12429 jetpack-lazy-image jetpack-lazy-image--handled" data-recalc-dims="1" data-lazy-loaded="1">
 
-
-<figure class="aligncenter"><img src="https://i2.wp.com/tim.blog/wp-content/uploads/2014/05/ftc_gotbusy_2503.jpg?w=600&amp;ssl=1" alt="FTC Disclosure: Writer got busy with member of story." class="wp-image-12427 jetpack-lazy-image" data-recalc-dims="1" data-lazy-src="https://i2.wp.com/tim.blog/wp-content/uploads/2014/05/ftc_gotbusy_2503.jpg?w=600&amp;is-pending-load=1#038;ssl=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img src="https://i2.wp.com/tim.blog/wp-content/uploads/2014/05/ftc_gotbusy_2503.jpg?w=600&#038;ssl=1" alt="FTC Disclosure: Writer got busy with member of story." class="wp-image-12427" data-recalc-dims="1"/></noscript></figure>
-
-
-
-<figure class="aligncenter"><img src="https://i1.wp.com/tim.blog/wp-content/uploads/2014/05/ftc_money_2503.jpg?w=600&amp;ssl=1" alt="FTC Disclosure: Writer received mad scrilla (money)." class="wp-image-12428 jetpack-lazy-image" data-recalc-dims="1" data-lazy-src="https://i1.wp.com/tim.blog/wp-content/uploads/2014/05/ftc_money_2503.jpg?w=600&amp;is-pending-load=1#038;ssl=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img src="https://i1.wp.com/tim.blog/wp-content/uploads/2014/05/ftc_money_2503.jpg?w=600&#038;ssl=1" alt="FTC Disclosure: Writer received mad scrilla (money)." class="wp-image-12428" data-recalc-dims="1"/></noscript></figure>
-
-
-
-<figure class="aligncenter"><img src="https://i1.wp.com/tim.blog/wp-content/uploads/2014/05/ftc_schwag_2503.jpg?w=600&amp;ssl=1" alt="FTC Disclosure: Writer got a helluva schwag bag." class="wp-image-12429 jetpack-lazy-image" data-recalc-dims="1" data-lazy-src="https://i1.wp.com/tim.blog/wp-content/uploads/2014/05/ftc_schwag_2503.jpg?w=600&amp;is-pending-load=1#038;ssl=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img src="https://i1.wp.com/tim.blog/wp-content/uploads/2014/05/ftc_schwag_2503.jpg?w=600&#038;ssl=1" alt="FTC Disclosure: Writer got a helluva schwag bag." class="wp-image-12429" data-recalc-dims="1"/></noscript></figure>
-
-
-
-<figure class="aligncenter"><img src="https://i1.wp.com/tim.blog/wp-content/uploads/2014/05/ftc_stocks_2503.jpg?w=600&amp;ssl=1" alt="FTC Disclosure: Writer got stock options." class="wp-image-12430 jetpack-lazy-image" data-recalc-dims="1" data-lazy-src="https://i1.wp.com/tim.blog/wp-content/uploads/2014/05/ftc_stocks_2503.jpg?w=600&amp;is-pending-load=1#038;ssl=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img src="https://i1.wp.com/tim.blog/wp-content/uploads/2014/05/ftc_stocks_2503.jpg?w=600&#038;ssl=1" alt="FTC Disclosure: Writer got stock options." class="wp-image-12430" data-recalc-dims="1"/></noscript></figure>
+<img src="https://i1.wp.com/tim.blog/wp-content/uploads/2014/05/ftc_stocks_2503.jpg?w=600&amp;ssl=1" alt="FTC Disclosure: Writer got stock options." class="wp-image-12430 jetpack-lazy-image jetpack-lazy-image--handled" data-recalc-dims="1" data-lazy-loaded="1">
 
 
 
