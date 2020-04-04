@@ -11,8 +11,8 @@ permalink:        pretty
 # Setup
 title:            Deryk Makgill
 tagline:          'Data Science, Apache Pig, Hadoop, Blogging, Tweets, Astrophysics'
-site url: http://derykmakgill.com/vm/
-url: http://derykmakgill.com/vm/
+site url: http://derykmakgill.com/vm
+url: http://derykmakgill.com/vm
 
 
 author:
