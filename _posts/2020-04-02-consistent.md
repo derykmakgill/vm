@@ -3,6 +3,7 @@ layout: post
 title: You'll wish you'd been more consistent
 permalink: /con/
 image: https://uploads-ssl.webflow.com/5ad143610f7efd77b6f188f3/5e6136025d6b0ecb8a88a30a_DSC_0315_Original-p-3200.jpeg
+excerpt: I’m usually surprised by which ones get a reaction. Something obvious to me may be powerful to others. Something powerful to me may be obvious to others.
 ---
 
 Writing in this format of short little articles has been really rewarding.
