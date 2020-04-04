@@ -48,7 +48,5 @@ title: Disclosure
 
 
 <p><small>(Illustrations courtesy of <a href="http://blog.louisgray.com" target="_blank" rel="noopener noreferrer">Louis Gray</a> and <a href="http://twitter.com/neenerbot" target="_blank" rel="noopener noreferrer">Jeannine Schafer</a>)</small></p>
-					<p id="fhcp">
-						</p><p><a href="/podcast"><strong>The Tim Ferriss Show</strong></a> <span>is one </span>of the most popular podcasts in the world with over 400 million downloads. It has been selected for "Best of Apple Podcasts" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts on many occasions. To listen to any of the past episodes for free, check out <strong><a href="/podcast">this page</a></strong>.</p>
-					<p></p>
+					
 		
